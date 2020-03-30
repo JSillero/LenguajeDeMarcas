@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido>
+        <cliente>Juan Delgado Matínez</cliente>
+        <entrega>bicicleta A2023</entrega>
+        <destino>
+            <calle>Delgado Martinez</calle>
+            <numero>4</numero>
+            <piso >
+                <numero_p>3</numero_p>
+                <letra>D</letra>
+            </piso>
+        </destino>
+        <fecha>19-5-2000</fecha>
+    </pedido>
+</pedidos>

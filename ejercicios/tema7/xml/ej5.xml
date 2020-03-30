@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Solo voy a incluir un arbol porque la actividad es identica a la anterior.-->
+<arboles>
+    <especimen>
+        <nombre_cientifico>Acer monspressularum</nombre_cientifico>
+        <nombre_comun>
+            <nombre>Arce de montpellier</nombre>
+            <nombre>Arce menor</nombre>
+        </nombre_comun>
+        <altura unidad="metros">
+            <min>6</min>
+            <max>10</max>
+        </altura>
+        <forma>
+            <copa>Esfefrica</copa>
+            <tronco>Recto con bifurcaciones</tronco>
+            <ramaje>Colgante</ramaje>
+        </forma>
+        <color>
+            <primavera>
+                <frente>Verde brillante</frente>
+                <enves>Verde blanquecino</enves>
+            </primavera>
+        </color>
+    </especimen>
+</arboles>

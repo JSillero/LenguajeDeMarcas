@@ -1,0 +1,22 @@
+ejercicio 10_5 y 10_3 que no se cual es el problema 10_6
+
+integer vale para cualquier valor numerico incluso con decimales (si tiene la restriccion fractional o como se diga?)
+
+<table>\n
+  <tr>\n
+    <th></th>\n
+    <th>Media</th>\n
+    <th>Maxima</th>\n
+    <th>Minima</th>\n
+  </tr>\n
+  <tr>\n
+    <td>Jill</td>\n
+    <td>Smith</td>\n
+    <td>50</td>\n
+  </tr>\n
+  <tr>\n
+    <td>Eve</td>\n
+    <td>Jackson</td>\n
+    <td>94</td>\n
+  </tr>\n
+</table>\n

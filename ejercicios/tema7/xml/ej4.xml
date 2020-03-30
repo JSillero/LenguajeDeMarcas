@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+    <comida>
+        <nombre>Gofre Belga</nombre>
+        <precio>5.95</precio>
+        <descripcion>Denuestro famosos gofres con mucho sirope</descripcion>
+        <calorias>650</calorias>
+    </comida>
+    <comida>
+        <nombre>Gofre Belga con fresas</nombre>
+        <precio>7.95</precio>
+        <descripcion>Denuestro famosos gofres con mucho sirope HORA CON FRESAS</descripcion>
+        <calorias>900</calorias>
+    </comida>
+    <comida>
+        <nombre>Gofre Belga con frutas del bosque</nombre>
+        <precio>8.95</precio>
+        <descripcion>Denuestro famosos gofres con mucho sirope HORA CON frutas del bosque</descripcion>
+        <calorias>900</calorias>
+    </comida>
+    <comida>
+        <nombre>Tostada francesa</nombre>
+        <precio>4.50</precio>
+        <descripcion>De francesa solo tiene el nombre, esto es una americanada</descripcion>
+        <calorias>600</calorias>
+    </comida>
+    <comida>
+        <nombre>Full English</nombre>
+        <precio>6.95</precio>
+        <descripcion>Desayuno con casi todo frito y/o proteico</descripcion>
+        <calorias>900</calorias>
+    </comida>
+</carta>
