@@ -9,5 +9,10 @@
         <link>https://jsillero.github.io/LenguajeDeMarcas</link>
         <description>Prueba</description>
     </item>
+       <item>
+        <title>Prueba2</title>
+        <link>https://jsillero.github.io/LenguajeDeMarcas</link>
+        <description>Prueba2</description>
+    </item>
 </channel>
 </rss>
