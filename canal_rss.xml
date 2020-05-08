@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+        <title>Pagina de Jose Sillero</title>
+        <link>https://jsillero.github.io/LenguajeDeMarcas</link>
+        <description>rss para los ejercicios de Lenguaje de Marcado</description>
+    <item>
+        <title>Prueba</title>
+        <link>https://jsillero.github.io/LenguajeDeMarcas</link>
+        <description>Prueba</description>
+    </item>
+</channel>
+</rss>
