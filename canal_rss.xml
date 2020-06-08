@@ -2,12 +2,12 @@
 <rss>
   <channel>
     <title>Daniel Blanco Aranda</title>
-    <link>https://jsillero.github.io/LenguajeDeMarcas/canal_rss.xml</link>
-    <description>Prueba</description>
+    <link>https://github.com/datrix100/datrix100.xml.io</link>
+    <description>https://github.com/datrix100</description>
       <item>
-        <title>Prueba</title>
+        <title>EJERCICIO. XML</title>
         <link></link>
-        <description>Prueba</description>
+        <description>descripcion</description>
       </item>
   </channel>
 </rss>
