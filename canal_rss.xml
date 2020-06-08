@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss>
   <channel>
-    <title>Jose Sillero</title>
-    <link>https://github.com/JSillero/LenguajeDeMarcas</link>
-    <description>https://github.com/JSillero/LenguajeDeMarcas</description>
+    <title>Daniel Blanco Aranda</title>
+    <link>https://github.com/datrix100/datrix100.xml.io</link>
+    <description>https://github.com/datrix100</description>
       <item>
-        <title>PRUEBA</title>
-        <link>PRUEBA</link>
-        <description>PRUEBA</description>
+        <title>EJERCICIO. XML</title>
+        <link></link>
+        <description>descripcion</description>
       </item>
   </channel>
 </rss>
