@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss>
+<rss version="2.0">
   <channel>
-    <title>aaaaa</title>
-    <link>https://github.com/datrix100/datrix100.xml.io</link>
-    <description>https://github.com/datrix100</description>
+    <title>Prueba</title>
+    <link>https://github.com/JSillero/LenguajeDeMarcas</link>
+    <description>https://github.com/JSillero/LenguajeDeMarcas</description>
       <item>
         <title>EJERCICIO. XML</title>
         <link></link>
